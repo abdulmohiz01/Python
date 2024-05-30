@@ -3,7 +3,7 @@
 # print("newline\n")
 # print('String concatenation is done with "+" sign')
 # name = input("What's your Name?")
-#len(), input(), #print()
+# len(), input(), #print()
 # print("Hello " + input("What is your Name?"))
 # print(len(input("Your name\n")))
 # n = "Almohiz"
